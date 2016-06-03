@@ -9,6 +9,12 @@ Useful for spritemaps and the like.
 $ npm install canvas-splitter
 ```
 
+## Manual
+
+1.  `npm install` to install deps
+2.  `npm run start` to run the server
+3.  visit `localhost:3000` or <http://4ker.github.io/canvas-spliter>
+
 ## Usage ##
 
 **`splitter(canvas, options)`**
