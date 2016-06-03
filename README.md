@@ -13,7 +13,7 @@ $ npm install canvas-splitter
 
 1.  `npm install` to install deps
 2.  `npm run start` to run the server
-3.  visit `localhost:3000` or <http://4ker.github.io/canvas-spliter>
+3.  visit `localhost:3000` or <http://4ker.github.io/canvas-splitter>
 
 ## Usage ##
 
